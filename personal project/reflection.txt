@@ -1,0 +1,21 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+There were many of those moments, but the one who standed out the most to me was when we were writing functions on the Canva. (scene.py)
+I saw the power of functions and how they play a huge role in bigger programs.
+
+
+2. In your judgment, what is the value of test functions?
+
+You can write what the function is supposed to do and make sure they all are working just fine before finishing your program.
+You can catch up errors of production and they also indicate where the function needs to be fixed.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+I normally have the habit of executing the code and trying the options one by one.
+There are other methods of doing this, writting test functions and debugging, but that's my way to test things.
+I can use Debugging more often to improve my testing process. Recently I have used it and it helped me to see things in a much better way.
